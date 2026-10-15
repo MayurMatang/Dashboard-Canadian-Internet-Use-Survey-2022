@@ -2,4 +2,6 @@ This dashboard is publicly hosted on Posit Connect Cloud (https://mayurmatang-ci
 
 To recreate this dashboard, you will need to download the Canadian Internet Use Survey 2022 from Statistics Canada's website (https://www150.statcan.gc.ca/n1/pub/56m0003x/2020001/2022.zip). Then you need to run the two R scripts - first the 'Import & Survey Design.R' to import data and create the survey design object, followed by 'App.R' to create the dashboard.
 
+Ps. The dashboard does heavy computations and hence takes a while to generate estimates. So hang on a bit.
+
 Cheers!
